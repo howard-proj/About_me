@@ -1,0 +1,23 @@
+{
+  "name": "Profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d About_me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howard-proj/About_me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howard-proj/About_me/issues"
+  },
+  "homepage": "https://github.com/howard-proj/About_me",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
